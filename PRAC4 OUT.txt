@@ -1,0 +1,1 @@
+Avg of the list is: 4.333333333333333
